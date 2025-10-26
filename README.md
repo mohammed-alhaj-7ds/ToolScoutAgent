@@ -146,18 +146,6 @@ Developer Recommendations:
 
 ---
 
-## 📌 Contribution
-
-Contributions are welcome!
-
-* Fork the repo
-* Create your feature branch (`git checkout -b feature/your-feature`)
-* Commit your changes (`git commit -m 'Add new feature'`)
-* Push to the branch (`git push origin feature/your-feature`)
-* Open a Pull Request
-
----
-
 ## 📝 License
 
 MIT License © 2025
