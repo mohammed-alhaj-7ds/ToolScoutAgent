@@ -1,0 +1,15 @@
+[project]
+name = "ToolScoutAgent"
+version = "0.1.0"
+description = "Developer Tools Research Agent: AI assistant that finds, evaluates, and provides recommendations for developer tools and technologies."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "firecrawl-py>=2.7.1",
+    "langchain>=0.3.25",
+    "langchain-openai>=0.3.19",
+    "langgraph>=0.4.8",
+    "pydantic>=2.11.5",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.50.0",
+]
